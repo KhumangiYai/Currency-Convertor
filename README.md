@@ -1,1 +1,1 @@
-# This is a Currency Convertor site
+# This is a Currency Convertr site
