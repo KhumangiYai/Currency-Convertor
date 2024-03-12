@@ -1,1 +1,1 @@
-# This is a currency Convertor
+# This is a Currency Convertor
