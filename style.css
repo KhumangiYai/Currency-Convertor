@@ -14,7 +14,7 @@ body{
 .container {
     background-color: white;
     padding: 2rem;
-    border: 0.1rem solid black;
+    /* border: 0.1rem solid black; */
     border-radius: 1rem;
     min-height: 40vh;
     min-width: 35vh;
@@ -74,7 +74,7 @@ form input {
     justify-content: center;
     align-items: center;
     margin: 2rem 0 2rem 0;
-    font-size: 1rem;
+    font-size: 2rem;
 }
 
 form button {
